@@ -1,0 +1,19 @@
+body{
+  background: #f0f0f0;
+}
+.error{
+  color:red;
+}
+input[type='text'],input[type='password']{
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 17px;
+  margin-top: 5px;
+}
+textarea{
+  width: 246px;
+  height: 81px;
+  margin-bottom: 10px;
+  border:none;
+}
